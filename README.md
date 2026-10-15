@@ -1,70 +1,33 @@
-# Project Name
+# Hey, I'm Shaheer 👋
 
-A short description of your project and what it does.
+### Front-End Web Developer | Building for the Web
 
-## Features
+I enjoy turning ideas into functional, responsive, and visually engaging web experiences. I focus on writing clean code, creating modern interfaces, and improving my development skills through hands-on projects.
 
-- Easy to use
-- Fast and lightweight
-- Responsive design
-- User-friendly interface
+### Tech Stack
 
-## Installation
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Frameworks & Styling:** Bootstrap, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** Python, APIs, and modern web development
 
-```bash
-git clone https://github.com/username/project-name.git
-cd project-name
-npm install
-```
+### Featured Projects
 
-## Usage
+- **FitForge** — Fitness website
+- **Roamly** — Travel planning website
+- **CineVerse** — Movie discovery website
 
-Run the project locally:
+### What I'm Working On
 
-```bash
-npm start
-```
+- Building practical web development projects
+- Improving JavaScript and problem-solving skills
+- Learning new tools and technologies
 
-Open your browser and visit:
+### Connect With Me
 
-```text
-http://localhost:3000
-```
+- **Portfolio:** https://builtbyshaheer-portfolio.netlify.app/
+- **GitHub:** https://github.com/ShaheerCoder11
 
-## Project Structure
+---
 
-```text
-project-name/
-│
-├── src/
-├── public/
-├── package.json
-└── README.md
-```
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- React / Node.js
-
-## Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-Name: Your Name  
-Email: your@email.com  
-GitHub: https://github.com/username
+*Learning by building. Improving with every commit.* 🚀
